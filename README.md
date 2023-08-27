@@ -1,2 +1,2 @@
-#Meme
-#It's a meme showing app
+# Meme
+It's a meme showing app
